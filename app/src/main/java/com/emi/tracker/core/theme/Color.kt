@@ -1,4 +1,4 @@
-package com.emi.tracker.ui.theme
+package com.emi.tracker.core.theme
 
 import androidx.compose.ui.graphics.Color
 
